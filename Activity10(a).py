@@ -1,3 +1,4 @@
+#Class that can add and subtract two numbers.
 class add_sub:
     def __init__(self, x, y):
         self.x = x
